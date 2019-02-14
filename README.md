@@ -20,6 +20,6 @@ Usage
 Meta
 ----
 
-Available under the MIT License.
+Available under the BSD license.
 
 Written by Miëtek Bak.  Say hello@mietek.io
